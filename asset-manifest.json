@@ -1,7 +1,7 @@
 {
   "main.css": "/Lyricdisplay/static/css/main.60200ab4.chunk.css",
-  "main.js": "/Lyricdisplay/static/js/main.6c3fa126.chunk.js",
-  "main.js.map": "/Lyricdisplay/static/js/main.6c3fa126.chunk.js.map",
+  "main.js": "/Lyricdisplay/static/js/main.7492822e.chunk.js",
+  "main.js.map": "/Lyricdisplay/static/js/main.7492822e.chunk.js.map",
   "static/js/1.80fdf641.chunk.js": "/Lyricdisplay/static/js/1.80fdf641.chunk.js",
   "static/js/1.80fdf641.chunk.js.map": "/Lyricdisplay/static/js/1.80fdf641.chunk.js.map",
   "runtime~main.js": "/Lyricdisplay/static/js/runtime~main.49e3256f.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/Lyricdisplay/static/media/logo.5d5d9eef.svg",
   "static/css/main.60200ab4.chunk.css.map": "/Lyricdisplay/static/css/main.60200ab4.chunk.css.map",
   "index.html": "/Lyricdisplay/index.html",
-  "precache-manifest.973ccd736efbe40c584acde937815b61.js": "/Lyricdisplay/precache-manifest.973ccd736efbe40c584acde937815b61.js",
+  "precache-manifest.4a4daa81cc9c5ec29b723a4159ce73d5.js": "/Lyricdisplay/precache-manifest.4a4daa81cc9c5ec29b723a4159ce73d5.js",
   "service-worker.js": "/Lyricdisplay/service-worker.js"
 }

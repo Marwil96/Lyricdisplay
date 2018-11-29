@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Lyricdisplay/static/js/runtime~main.49e3256f.js"
   },
   {
-    "revision": "6c3fa126d26bb165f5e8",
-    "url": "/Lyricdisplay/static/js/main.6c3fa126.chunk.js"
+    "revision": "7492822ed8d55b59a2a5",
+    "url": "/Lyricdisplay/static/js/main.7492822e.chunk.js"
   },
   {
     "revision": "80fdf641cd7e066bec65",
     "url": "/Lyricdisplay/static/js/1.80fdf641.chunk.js"
   },
   {
-    "revision": "6c3fa126d26bb165f5e8",
+    "revision": "7492822ed8d55b59a2a5",
     "url": "/Lyricdisplay/static/css/main.60200ab4.chunk.css"
   },
   {
-    "revision": "1ef5e1ab12bce624cb66f8846dc386c0",
+    "revision": "ab2623d7a805115df886755ad840e9b4",
     "url": "/Lyricdisplay/index.html"
   }
 ];
